@@ -1,5 +1,7 @@
 
-[![MasterHead](https://imgur.com/a/upcIh8y)](https://personal-portfolio-black-phi.vercel.app/)
+[![MasterHead](https://i.ibb.co.com/kxfrrdc/Me111dical.gif)](https://personal-portfolio-black-phi.vercel.app/)
+
+
 
 <h1 align="center">Hi 👋, I'm Abrar Fahim</h1>
 <h3 align="center">Aspirant Ph.D. Candidate | Biomedical Engineering | Machine Learning</h3>
