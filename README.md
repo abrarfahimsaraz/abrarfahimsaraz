@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Abrar Fahim</h1>
 <h3 align="center">Aspirant Ph.D. Candidate | Biomedical Engineering | Machine Learning</h3>
 
-(img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/v2/D5612AQEqIxt3Z76Xbw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1681846150054?e=1735171200&v=beta&t=qWBWMK4wkVuyJTnSVWy3ujYaNSLXXMi8bqryW5PhX0A")
+(img align="right" alt="Coding" width="400" src="https://i.ibb.co.com/RY6Zt13/1681846150054.gif")
 <p align="left"> 
 
 
