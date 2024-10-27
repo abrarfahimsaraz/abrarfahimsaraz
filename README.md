@@ -1,5 +1,4 @@
 [![MasterHead](https://i.ibb.co.com/kxfrrdc/Me111dical.gif)](class="center-image")
-[![MasterHead]()]
 
 
 
