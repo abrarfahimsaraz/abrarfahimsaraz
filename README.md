@@ -1,4 +1,5 @@
 <div align="center">
+  <!-- GIF should autoplay by default if this URL links directly to the GIF -->
   <img src="https://i.ibb.co/kxfrrdc/Me111dical.gif" alt="MasterHead" />
 </div>
 
@@ -6,6 +7,7 @@
 <h3 align="center">Aspirant Ph.D. Candidate | Biomedical Engineering | Machine Learning</h3>
 
 <div align="right">
+  <!-- This GIF should also autoplay if the URL points directly to the GIF -->
   <img align="right" alt="Coding" height="280" width="400" src="https://i.ibb.co/RY6Zt13/1681846150054.gif" />
 </div>
 
