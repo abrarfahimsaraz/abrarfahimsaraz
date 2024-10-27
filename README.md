@@ -1,13 +1,17 @@
-[![MasterHead](https://i.ibb.co.com/kxfrrdc/Me111dical.gif)](class="center-image")
-
-
-
+<div align="center">
+  <img src="https://i.ibb.co/kxfrrdc/Me111dical.gif" alt="MasterHead" />
+</div>
 
 <h1 align="center">Hi 👋, I'm Abrar Fahim</h1>
 <h3 align="center">Aspirant Ph.D. Candidate | Biomedical Engineering | Machine Learning</h3>
 
-(img align="right" alt="Coding" width="400" src="https://i.ibb.co.com/RY6Zt13/1681846150054.gif")
-<p align="left"> 
+<div align="right">
+  <img align="right" alt="Coding" height="280" width="400" src="https://i.ibb.co/RY6Zt13/1681846150054.gif" />
+</div>
+<p align="left">
+  
+</p>
+
 
 
 <img src="https://komarev.com/ghpvc/?username=abrarfahimsaraz&label=Profile%20views&color=0e75b6&style=flat" alt="abrarfahimsaraz" /> </p>
