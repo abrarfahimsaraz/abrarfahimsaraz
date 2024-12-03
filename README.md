@@ -18,7 +18,7 @@
 - 🔭 I’m currently working on **Classification of Lung and Colon Cancer Histopathological Images Using Convolutional Neural Network**
 - 🌱 I’m currently learning **TensorFlow, PyTorch, Computer Vision & Machine Learning**
 - 👯 I’m looking to collaborate on **Predictive Healthcare Models**
-- 👨‍💻 Check out my projects at [My Portfolio](https://personal-portfolio-black-phi.vercel.app/#publications)
+- 👨‍💻 Check out my projects at [my Portfolio](https://abrarfahimsite.vercel.app)
 - 📫 How to reach me: **abrarfahim619@gmail.com**
 - ⚡ Fun fact: I’m a bit of a "Jack of all trades!"
 
