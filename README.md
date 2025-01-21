@@ -1,7 +1,3 @@
-<div align="center">
-  <!-- GIF should autoplay by default if this URL links directly to the GIF -->
-  <img src="https://i.ibb.co/kxfrrdc/Me111dical.gif" alt="MasterHead" />
-</div>
 
 <h1 align="center">Hi 👋, I'm Abrar Fahim, an Aspiring Ph.D. Candidate</h1>
 <h3 align="center">   Machine Learning | Image Processing </h3>
