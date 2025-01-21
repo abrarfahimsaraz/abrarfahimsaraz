@@ -15,7 +15,7 @@
   <img src="https://komarev.com/ghpvc/?username=abrarfahimsaraz&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-- 🔭 I’m currently working on **Identity leakage in GANs, Image Segmentation and Masking. **
+- 🔭 I’m currently working on **Identity leakage in GANs, Image Segmentation and Masking.**
 - 🌱 I’m currently learning **TensorFlow, PyTorch, Computer Vision & Machine Learning**
 - 👯 I’m looking to collaborate on **Vision Language Models**
 - 👨‍💻 Check out my projects at [my Portfolio](https://abrarfahimsite.vercel.app)
