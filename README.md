@@ -3,9 +3,9 @@
   <img src="https://i.ibb.co/kxfrrdc/Me111dical.gif" alt="MasterHead" />
 </div>
 
-<h1 align="center">Hi 👋, I'm Abrar Fahim</h1>
-<h3 align="center">Aspirant Ph.D. Candidate | Machine Learning | Image Processing </h3>
-<h3 align="center">Privacy Preserving ML | Information Security | Vision Language Models</h3>
+<h1 align="center">Hi 👋, I'm Abrar Fahim, an Aspiring Ph.D. Candidate</h1>
+<h3 align="center">   Machine Learning | Image Processing </h3>
+<h3 align="center"> Privacy Preserving ML | Information Security | Vision Language Models</h3>
 
 <div align="right">
   <!-- This GIF should also autoplay if the URL points directly to the GIF -->
