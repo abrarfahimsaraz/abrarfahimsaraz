@@ -4,7 +4,8 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Abrar Fahim</h1>
-<h3 align="center">Aspirant Ph.D. Candidate | Machine Learning | Image Processing | Privacy Preserving ML | Information Security | Vision Language Models</h3>
+<h3 align="center">Aspirant Ph.D. Candidate | Machine Learning | Image Processing 
+  Privacy Preserving ML | Information Security | Vision Language Models</h3>
 
 <div align="right">
   <!-- This GIF should also autoplay if the URL points directly to the GIF -->
