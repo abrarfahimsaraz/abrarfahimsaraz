@@ -1,7 +1,7 @@
 
-<h1 align="center">Hi 👋, I'm Abrar Fahim, an Aspiring Ph.D. Candidate</h1>
+<h1 align="center">Hi 👋, I'm Abrar Fahim !</h1>
 <h3 align="center">   Machine Learning | Image Processing </h3>
-<h3 align="center"> Privacy Preserving ML | Information Security | Vision Language Models</h3>
+<h3 align="center"> Privacy Preserving ML | Power System Optimization | Vision Language Models</h3>
 
 <div align="right">
   <!-- This GIF should also autoplay if the URL points directly to the GIF -->
@@ -12,10 +12,9 @@
   <img src="https://komarev.com/ghpvc/?username=abrarfahimsaraz&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-- 🔭 I’m currently working on **Identity leakage in GANs, Image Segmentation and Masking.**
+- 🔭 I’m currently working on **Identity leakage in GANs, Optimization, Image Segmentation and Masking.**
 - 🌱 I’m currently learning **TensorFlow, PyTorch, Computer Vision & Machine Learning**
-- 👯 I’m looking to collaborate on **Vision Language Models**
-- 👨‍💻 Check out my projects at [my Portfolio](https://abrarfahimsite.vercel.app)
+- 👯 I’m looking to collaborate on **ML/VLM Projects**
 - 📫 How to reach me: **abrarfahim8@iut-dhaka.edu**
 - ⚡ Fun fact: I’m a bit of a "Jack of all trades!"
 
